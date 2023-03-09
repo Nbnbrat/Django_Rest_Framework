@@ -1,3 +1,3 @@
-# Medium_clone
-medium clone using django rest framework
-medium clone using django rest framework
+# Django REST Framework -API using class based views.
+APIViews,GenericAPIViews in django rest framework
+APIViews,GenericAPIViews in django rest framework
